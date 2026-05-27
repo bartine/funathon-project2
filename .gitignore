@@ -222,3 +222,8 @@ __marimo__/
 lightning_logs/
 my_ttc/
 scratch.py
+
+*.pkl
+*.ckpt
+solutions/mlflow/artifacts/
+solutions/mlflow-artifacts/.keep
